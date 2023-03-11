@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="54335448-e097-445e-bba0-af851c8b0dce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myhw10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonenumbers..txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneNumberValidator.java" afterDir="false" />
+    <list default="true" id="54335448-e097-445e-bba0-af851c8b0dce" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/task2/FileToJsonConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhoneNumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/PhoneNumberValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/phonenumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MsFdfuAg8AvvG5l7tsSiWOqwAA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,16 +49,50 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="PhoneNumberValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PhoneNumberValidator" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dp270\IdeaProjects\myhw10\src\task1" />
+      <recent name="C:\Users\dp270\IdeaProjects\myhw10\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WordFrequencyCounter">
+    <configuration name="FileToJsonConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.FileToJsonConverter" />
       <module name="myhw10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.PhoneNumberValidator" />
+      <module name="myhw10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3.WordFrequencyCounter" />
+      <module name="myhw10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordFrequencyCounter" />
+        <item itemvalue="Application.FileToJsonConverter" />
         <item itemvalue="Application.PhoneNumberValidator" />
       </list>
     </recent_temporary>
@@ -61,11 +105,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678548473553</updated>
-      <workItem from="1678548474673" duration="306000" />
+      <workItem from="1678548474673" duration="1701000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1678549008422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678549008422</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
